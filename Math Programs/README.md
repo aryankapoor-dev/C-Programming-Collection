@@ -1,6 +1,6 @@
 # 📁 Math — C Programming
 
->  This Folder Has All Basic Programs of C Language
+>  This Folder Has All Math Programs of C Language
 ## Compile & Run
 
 ```bash
